@@ -11,6 +11,8 @@ An exploration of different datasets using statistical methods and Python data s
 
 ### Descriptive Statistics
 
+An exploration of a star dataset used for stellar classification using the Python `pandas` library.
+
 [Sample the Stars](/notebooks/descriptive_stats.ipynb)
 
 ### Simple Linear Regression
