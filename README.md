@@ -47,7 +47,7 @@ DESC HERE
 
 ### Time Series Decomposition
 
-A breakdown of French stock market data over time, separated into four underlying factors: trends, seasonal, residual and noise.
+A breakdown of data taken from the French stock market over time. To provide more insight, the data is decomposed into four underlying types: trends, seasonal, residual and noise.
 
 [Time Series Decomposition](/notebooks/time_series_decomposition.ipynb)
 
