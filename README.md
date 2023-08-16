@@ -5,8 +5,8 @@ An exploration of different datasets using statistical methods and Python data s
 ## Contents
 
 1. [Descriptive Statistics](#descriptive-statistics)
-1. [Simple Linear Regression](#simple-linear-regression)
-1. [Multiple Linear Regression](#multiple-linear-regression)
+1. [Simple Linear Regression](#simple-linear-regression-slr)
+1. [Multiple Linear Regression](#multiple-linear-regression-mlr)
 1. [Logistic Regression](#logistic-regression)
 1. [Time Series Decomposition](#time-series-decomposition)
 1. [Clustering](#clustering)
@@ -72,7 +72,7 @@ I first explore the dataset using `pandas`. I then set up a `KMeans` object usin
 
 Using the `KMeans` object, `seaborn` and `matplotlib`, I then plot the data to visualise how the iris flowers can be grouped together.
 
-Next, I perform a silhouette analysis, in order to find the optimal number of clusters for the dataset. With this new information, I create a new `KMeans object` and plot it on another scatter graph.
+Next, I perform a silhouette analysis, in order to find the optimal number of clusters for the dataset. With this new information, I create a new `KMeans` object and plot it on another scatter graph.
 
 [Clustering - Iris Flowers](/notebooks/clustering_kmeans.ipynb)
 
