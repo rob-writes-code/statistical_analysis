@@ -60,13 +60,21 @@ Finally, I use the model to make a prediction.
 
 ### Time Series Decomposition
 
-A breakdown of data taken from the French stock market over time. To provide more insight, the data is decomposed into four underlying types: trends, seasonal, residual and noise.
+A breakdown of data taken from the French stock market over time. To provide more insight, the data is decomposed into four underlying components: trends, seasonal, residual and noise.
 
-[Time Series Decomposition](/notebooks/time_series_decomposition.ipynb)
+[Time Series Decomposition - French Stock Exchange](/notebooks/time_series_decomposition.ipynb)
 
 ### Clustering
 
-DESC HERE
+In this section, I explore the relationship between different species of iris flowers, using clustering to group the data based on characteristics such as sepal length and petal width.
+
+I first explore the dataset using `pandas`. I then set up a `KMeans` object using the `sklearn` library. 
+
+Using the `KMeans` object, `seaborn` and `matplotlib`, I then plot the data to visualise how the iris flowers can be grouped together.
+
+Next, I perform a silhouette analysis, in order to find the optimal number of clusters for the dataset. With this new information, I create a new `KMeans object` and plot it on another scatter graph.
+
+[Clustering - Iris Flowers](/notebooks/clustering_kmeans.ipynb)
 
 <hr>
 
