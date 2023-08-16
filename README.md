@@ -4,12 +4,12 @@ An exploration of different datasets using statistical methods and Python data s
 
 ## Contents
 
-1. [**Descriptive Statistics**](#descriptive-statistics)
-1. [**Simple Linear Regression**](#simple-linear-regression)
-1. [**Multiple Linear Regression**](#multiple-linear-regression)
-1. [**Logistic Regression**](#logistic-regression)
-1. [**Time Series Decomposition**](#time-series-decomposition)
-1. [**Clustering**](#clustering)
+1. [Descriptive Statistics](#descriptive-statistics)
+1. [Simple Linear Regression](#simple-linear-regression)
+1. [Multiple Linear Regression](#multiple-linear-regression)
+1. [Logistic Regression](#logistic-regression)
+1. [Time Series Decomposition](#time-series-decomposition)
+1. [Clustering](#clustering)
 
 ### Descriptive Statistics
 
