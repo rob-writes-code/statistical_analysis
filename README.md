@@ -43,7 +43,20 @@ Finally, I use `sklearn` to validate my model, concluding that engine size and h
 
 ### Logistic Regression
 
-DESC HERE
+In this analysis, I look at the effects of sleep and hours spent studying on student pass rates.
+
+I first explore the data using `seaborn`, `pandas` and `matplotlib`. I then create a logistic statistical model using `statsmodels` and test it with `sklearn`.
+
+I further validate the model using the following methods:
+
+- Confusion matrix
+- True positive and true negative rate
+- Receiver Operating Characteristic (ROC) curve
+- Area Under the ROC Curve (AUC) method
+
+Finally, I use the model to make a prediction.
+
+[Logistic Regression - Student Pass Rates](/notebooks/logistic_regression.ipynb)
 
 ### Time Series Decomposition
 
