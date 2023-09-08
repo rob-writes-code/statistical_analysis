@@ -60,7 +60,7 @@ Finally, I use the model to make a prediction.
 
 ### Time Series Decomposition
 
-A breakdown of data taken from the French stock market over time. To provide more insight, the data is decomposed into four underlying components: trends, seasonal, residual and noise.
+A breakdown of data taken from the French stock market over time. To provide more insight, the data is decomposed into four underlying components: level, trend, seasonal and noise.
 
 [Time Series Decomposition - French Stock Exchange](/notebooks/time_series_decomposition.ipynb)
 
